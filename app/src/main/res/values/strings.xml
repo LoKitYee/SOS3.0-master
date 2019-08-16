@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="title_home">Home</string>
+    <string name="title_rescue">Rescue</string>
+    <string name="rescue">Rescue</string>
+    <string name="home">Home</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="title_setting">Setting</string>
+    <string name="contact_count">Your emergency alerts will be sent to</string>
+    <string name="alert_title">Alert</string>
+    <string name ="alert_message_ambulance" >Your have chosen Ambulance </string>
+    <string name ="alert_message_FireDepartment" >Your have chosen Fire department </string>
+    <string name ="alert_message_Police" >Your have chosen Police </string>
+    <string name="des_call">Call</string>
+    <string name="des_direction">direction</string>
+    <string name="SMS_title">Message to be Sent Via SMS</string>
+    <string name="fireServe_Number_require">Phone of Fire service</string>
+    <string name="ambulanceNumberRequire">Phone of Ambulance service</string>
+    <string name="Police_Number_require">Phone of Police service</string>
+    <string name="Des_send_location">Send location to contact(s) via SMS</string>
+
+    <string name="play_siren">Play siren </string>
+    <string name="help">HELP</string>
+    <string name="please_fill_in_this_form_to_create_an_account">Please fill in this form to create an account.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="not_a_user_sign_up">Not a user? | Sign Up</string>
+    <string name="sign_up_error_message">Please fill in all the field.</string>
+    <string name="sign_up_error_title">Error!</string>
+    <string name="email_or_password_is_invalid">Email or password is invalid!</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude longtitude used</string>
+    <string name="no_address_found">No address found</string>
+    <string name="var_numbers_trigger" translatable="false">triggerNumbers</string>
+    <string name="var_numbers_notify" translatable="false">notifyNumbers</string>
+    <string name="var_words_trigger" translatable="false">triggerWords</string>
+    <string name="var_words_keyword" translatable="false">keyword</string>
+    <string name="setting">Setting</string>
+    <string name="add_phone_number">Add phone number:</string>
+    <string name="name">Name : </string>
+    <string name="jason">Jason</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="_0129897264">0129897264</string>
+    <string name="save">SAVE</string>
+    <string name="contact_number">contact number</string>
+    <string name="contact_name">contact name</string>
+    <string name="careers">careers</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="save_login">Remember me?</string>
+
+</resources>
